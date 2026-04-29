@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.rustc.source": null,
+    "rust-analyzer.rustfmt.overrideCommand": null
+}
