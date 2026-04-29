@@ -1,4 +1,4 @@
-use num::complex::Complex;    // <1>
+use num::complex::Complex;    // импортирование Complex
 
 fn calculate_mandelbrot(      // <2>
 
