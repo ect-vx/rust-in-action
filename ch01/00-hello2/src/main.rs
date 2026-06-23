@@ -1,3 +1,4 @@
+// page 29
 fn greet_world() {
     println!("Hello, world!");     // использование макроса (!)
 

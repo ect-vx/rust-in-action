@@ -1,3 +1,4 @@
+//page 39
 fn main() {
   let fruit = vec!['🥝', '🍌', '🍇'];
 

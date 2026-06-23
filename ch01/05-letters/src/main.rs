@@ -1,3 +1,4 @@
+// page 40
 fn main() {
   let mut letters = vec![            // создание изменяемого вектора
       "a", "b", "c"
